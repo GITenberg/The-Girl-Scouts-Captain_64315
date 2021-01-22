@@ -1,5 +1,5 @@
 _repo: The-Girl-Scouts-Captain_64315
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Colborne, Elizabeth
@@ -8,12 +8,17 @@ contributor:
     gutenberg_agent_id: '35465'
     url: http://www.gutenberg.org/2009/agents/35465
     wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Colborne
+covers:
+- cover_type: archival
+  image_path: 64315-h/images/cover.jpg
 creator:
   author:
     agent_name: Lavell, Edith
     gutenberg_agent_id: '26346'
     url: http://www.gutenberg.org/2009/agents/26346
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64315#The-Girl-Scouts-Captain
 gutenberg_issued: '2021-01-16'
 gutenberg_type: Text
 identifiers:
